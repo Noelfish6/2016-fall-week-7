@@ -102,7 +102,7 @@ function draw(rows){
             return scaleSize(d.pop);
         })
         .style('fill-opacity',.1)
-        .style('stroke','black');
+        .style('stroke','#F5EB91');
 }
 
 function parse(d){
